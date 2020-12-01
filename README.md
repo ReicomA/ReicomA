@@ -1,7 +1,6 @@
 ### Ha Jeong Hyun (ReicomA)
-<code><img height="30" src="https://t1.daumcdn.net/cfile/tistory/9931DF3D5B95428108?original" href="https://sweetcase.tistory.com/"></code>
-* Beginner Developer
-* Backend + Audio Processing + Classic Composer
+* Beginner + Backend Developer
+* Classic Composer
 * * *
 ### Languages
 <code><img height="25" src="https://camo.githubusercontent.com/91de473fa3f2f749a56effc3e64f1049d108251f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67"></code>
