@@ -17,7 +17,7 @@
 |[SKVS](https://github.com/ReicomA/SKVS)|Key-Value 형 Cache System|![GitHub release (latest by date)](https://img.shields.io/github/v/release/Re-Coma/SKVS) **But Stopped development**|Personal|
 |[Nanco](https://github.com/ReicomA/Nanco)|Nand Gate로 만드는 Algorithm/Logic Library|![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ReicomA/Nanco?include_prereleases&style=flat-square) (Progress with Release)|Personal|
 |MiniCloudChip|초경량 NAS Cloud Web Service|Progress|![SweetCase](https://github.com/ReicomA/ReicomA/blob/master/%EC%9E%90%EC%82%B0%201xxxhdpi.png)|
-|**Pyμ**|사람이 직접 만드는 RPi 기반의 가상악기|Progress|![SweetCase](https://github.com/ReicomA/ReicomA/blob/master/%EC%9E%90%EC%82%B0%201xxxhdpi.png)|
+|**Pyμ**|사람이 직접 만드는 Raspberry Pi 기반의 전자악기|Progress|![SweetCase](https://github.com/ReicomA/ReicomA/blob/master/%EC%9E%90%EC%82%B0%201xxxhdpi.png)|
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ReicomA)](https://github.com/anuraghazra/github-readme-stats)
