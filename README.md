@@ -20,9 +20,15 @@ Backend Developer(Beginner) + Classic Composer
 <code><img height="25" src="https://mblogthumb-phinf.pstatic.net/MjAyMDA1MTJfNjgg/MDAxNTg5Mjc4MDAwMTc5.IbO0wplSOOEAGRAsAsAck8CVJ-Yy8-AoptLtcdkbuBYg.ArK3yQlPC4ok3aY7l-3VIHUdCBr6PvcIwr5KZmR6i5og.JPEG.storyclass/SE-51c58922-1eb6-4bc6-8adc-032592d79590.jpg?type=w800"></code>
 <code><img height="25" src="https://d1.awsstatic.com/sdks-and-tools/eclipse%20icon%201.3778a4cbe978d8dfd73c091706e26aa6c57c65aa.jpeg"></code>
 
-
-### Projects
 * * *
+### Projects
+|Name|Summary|Status|Owner|
+|---|---|---|---|
+|[SKVS](https://github.com/ReicomA/SKVS)|Key-Value 형 Cache System|![GitHub release (latest by date)](https://img.shields.io/github/v/release/Re-Coma/SKVS) **But Stopped development**|Personal|
+|[Nanco](https://github.com/ReicomA/Nanco)|Nand Gate로 만드는 Algorithm/Logic Library|![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ReicomA/Nanco?include_prereleases&style=flat-square) (Progress with Release)|Personal|
+|MiniCloudChip|초경량 NAS Cloud Web Service|Progress|**SweetCase**|
+|**Pyμ**|사람이 직접 만드는 라즈베리 파이 기반의 가상악기|Progress|**SweetCase**|
+
 #### Personal Projects
 
 #### SweetCase Projects
