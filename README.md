@@ -15,7 +15,7 @@
 |Name|Summary|Status|Owner|
 |---|---|---|---|
 |[SKVS](https://github.com/ReicomA/SKVS)|Key-Value 형 Cache System|![GitHub release (latest by date)](https://img.shields.io/github/v/release/Re-Coma/SKVS) **But Stopped development**|Personal|
-|MiniCloudChip|초경량 NAS Cloud Web Service|Progress|![SweetCase](https://github.com/ReicomA/ReicomA/blob/master/%EC%9E%90%EC%82%B0%201xxxhdpi.png)|
+|MicroCloudChip|초경량 NAS Cloud Web Service|Progress|![SweetCase](https://github.com/ReicomA/ReicomA/blob/master/%EC%9E%90%EC%82%B0%201xxxhdpi.png)|
 |**Pyμ**|사람이 직접 만드는 Raspberry Pi 기반의 전자악기|Progress|![SweetCase](https://github.com/ReicomA/ReicomA/blob/master/%EC%9E%90%EC%82%B0%201xxxhdpi.png)|
 
 
