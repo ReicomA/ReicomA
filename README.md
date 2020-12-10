@@ -4,7 +4,7 @@
 <code><a href="https://www.youtube.com/channel/UCE8PYLb_Cw1dkkvIOMHLCiA"><img height="25" src="https://e7.pngegg.com/pngimages/901/503/png-clipart-black-play-button-icon-youtube-computer-icons-social-media-play-button-angle-rectangle.png"></a></code>
 * Beginner + Backend Developer
 * Classic Composer
-* I'm preparing the ![SweetCase](https://github.com/ReicomA/ReicomA/blob/master/%EC%9E%90%EC%82%B0%201xxxhdpi.png)
+* In ![SweetCase](https://github.com/ReicomA/ReicomA/blob/master/%EC%9E%90%EC%82%B0%201xxxhdpi.png)
 
 ### Tools
 |Languages|Framework & Platform|Tools|
