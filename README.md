@@ -16,7 +16,8 @@
 |---|---|---|---|---|
 |[SKVS](https://github.com/ReicomA/SKVS)|Key-Value 형 Cache System|![GitHub release (latest by date)](https://img.shields.io/github/v/release/Re-Coma/SKVS)|Personal|Stopped|
 |[MicroCloudChip](https://github.com/SweetCase-BakHwa-Project/MicroCloudChip)|초경량 NAS Cloud Web Service|![GitHub release (latest by date)](https://img.shields.io/github/v/release/SweetCase-BakHwa-Project/MicroCloudChip?style=flat-square)|![SweetCase](https://github.com/ReicomA/ReicomA/blob/master/%EC%9E%90%EC%82%B0%201xxxhdpi.png)|Maintaining|
-|muzika|미디 분석 및 화음 관련 분석 Algorithm Library|Progress|![SweetCase](https://github.com/ReicomA/ReicomA/blob/master/%EC%9E%90%EC%82%B0%201xxxhdpi.png)|Progress|
+|muzika|미디 분석 및 화음 관련 분석 Algorithm Library||![SweetCase](https://github.com/ReicomA/ReicomA/blob/master/%EC%9E%90%EC%82%B0%201xxxhdpi.png)|Progress|
+|SKVS-R|SKVS Remastered||![SweetCase](https://github.com/ReicomA/ReicomA/blob/master/%EC%9E%90%EC%82%B0%201xxxhdpi.png)|Progress|
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ReicomA)](https://github.com/anuraghazra/github-readme-stats)
 
