@@ -19,4 +19,3 @@
 |SKVS-R|SKVS Remastered||![SweetCase](https://github.com/ReicomA/ReicomA/blob/master/%EC%9E%90%EC%82%B0%201xxxhdpi.png)|Progress|
 
 ![stats](https://github-readme-stats.vercel.app/api?username=ReicomA&show_icons=true&theme=radical)
-
