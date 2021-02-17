@@ -16,5 +16,6 @@
 |---|---|---|---|---|
 |[SKVS](https://github.com/ReicomA/SKVS)|Key-Value 형 Cache System|![GitHub release (latest by date)](https://img.shields.io/github/v/release/Re-Coma/SKVS)|Personal|Stopped|
 |[MicroCloudChip](https://github.com/SweetCase-BakHwa-Project/MicroCloudChip)|초경량 NAS Cloud Web Application|![GitHub release (latest by date)](https://img.shields.io/github/v/release/SweetCase-BakHwa-Project/MicroCloudChip?style=flat-square)|![SweetCase](https://github.com/ReicomA/ReicomA/blob/master/%EC%9E%90%EC%82%B0%201xxxhdpi.png)|Maintaining|
+|2943-Battle Of MidGalaxy|87년도 게임 1943 Battle Of Midway 클론 게임|Progress|![SweetCase](https://github.com/ReicomA/ReicomA/blob/master/%EC%9E%90%EC%82%B0%201xxxhdpi.png)|Progress|
 
 ![stats](https://github-readme-stats.vercel.app/api?username=ReicomA&show_icons=true&theme=radical)
